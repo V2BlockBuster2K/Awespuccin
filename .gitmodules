@@ -1,5 +1,5 @@
-[submodule "conf/awesome/lib/bling"]
-	path = conf/awesome/lib/bling
+[submodule "test"]
+	path = test
 	url = https://github.com/BlingCorp/bling.git
 [submodule "conf/awesome/lib/layout-machi"]
 	path = conf/awesome/lib/layout-machi
