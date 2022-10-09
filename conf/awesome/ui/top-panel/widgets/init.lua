@@ -1,0 +1,17 @@
+return {
+    clock = require (... .. ".clock"),
+    cpu = require (... .. ".cpu"),
+    date = require (... .. ".date"),
+    disk = require (... .. ".disk"),
+    keyboard = require (... .. ".keyboard"),
+    layoutbox = require (... .. ".layoutbox"),
+    mem = require (... .. ".mem"),
+    menu = require (... .. ".menu"),
+    systray = require (... .. ".systray"),
+    promptbox = require (... .. ".promptbox"),
+    audio = require (... .. ".pulseaudio"),
+    seperator = require (... .. ".seperator"),
+    taglist = require (... .. ".taglist"),
+    tasklist = require (... .. ".tasklist"),
+    power = require (... .. ".power"),
+}
