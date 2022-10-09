@@ -20,4 +20,4 @@ require "ui"
 
 -- Autostart --
 awful.spawn.with_shell("picom --experimental-backends")
-awful.spawn.with_shell("start-stop-daemon mpDris2 -q") -- OpenRC mpDris2 since no service file -- 
+-- awful.spawn.with_shell("start-stop-daemon mpDris2 -q") -- OpenRC mpDris2 since no service file -- 
