@@ -1,0 +1,8 @@
+--require "main.error_handling"
+require "main.layout"
+require "main.menu"
+require "main.wallpaper"
+require "main.bindings"
+require "main.custom_bindings"
+require "main.rules"
+require "main.tags"
