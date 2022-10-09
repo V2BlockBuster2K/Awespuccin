@@ -1,0 +1,1 @@
+PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[cyan]%}%M%{$fg[blue]%} %{$fg[magenta]%}%~% %B%{$fg[red]%}]%{$fg[blue]%}~> %b%{$reset_color%}%"
