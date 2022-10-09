@@ -1,7 +1,8 @@
 # Awespuccin
 My AwesomeWM Configuration - Awespuccin
 
-# **Todo**
+
+## <samp>Fonts</samp>
 - [ ] Rework Buttons (Animations) (Playerctl) -> Hover Effects Panels
 - [ ] Add decoration for ncmpcpp
 - [ ] github widget (notfication-panel)
