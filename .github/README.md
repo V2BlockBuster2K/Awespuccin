@@ -15,9 +15,9 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 
 ## :snowflake: <samp>Information</samp>
 
-Here are some details about my setup:
-
 <img align='right' width='500px' src="assets/infoscreenshot.png">
+
+Here are some details about my setup:
 
 - **OS:** [Arch Linux](https://archlinux.org)
 - **WM:** [awesome](https://github.com/awesomeWM/awesome)
