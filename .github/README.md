@@ -39,7 +39,7 @@ AwesomeWM Modules:
 
 Main Features:
 
-<img align='left' width='500px' src="assets/notifvolume.png">
+<img align='right' width='500px' src="assets/notifvolume.png">
 
 - **Catppuccin Mocha Colorscheme**
 - **Cool Window decorations**
