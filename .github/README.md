@@ -1,6 +1,15 @@
 # Awespuccin
 My Catppuccin themed AwesomeWM Config - Awespuccin
 
+<!-- RICE PREVIEW -->
+<div align="center">
+   <a href="#--------">
+      <img src="assets/rice.png" alt="Rice Preview">
+   </a>
+</div>
+
+<br>
+
 <!-- INFORMATION -->
 
 ## :snowflake: ‎ <samp>Information</samp>
