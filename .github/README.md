@@ -191,7 +191,7 @@ Awespuccin is created by <a href="https://github.com/V2BlockBuster2K">V2BlockBus
 <!-- Todo -->
   
 ## :white_check_mark: <samp>Todo</samp>
-- [ ] Rework Buttons (Animations) (Playerctl) -> Hover Effects on Panels
+- [ ] Rework buttons (animations) (Playerctl) -> Hover effects on panels
 - [ ] Add decoration for ncmpcpp
 - [ ] Github widget (notfication-panel)
 - [ ] Clickable calendar (info-panel)
