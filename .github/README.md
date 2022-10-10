@@ -213,7 +213,7 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 
 | <b>Useful Top Panel</b>                                                                              |
 | ---------------------------------------------------------------------------------------------------- |
-| <a href="#--------"><img src="assets/toppanel.png" width="500px"</a>    |
+| <a href="#--------"><img src="assets/toppanel.png" width="500px"></a>    |
 
 | <b>Informative Info Center</b>                                                          |
 | ------------------------------------------------------------------------------------------------- |
