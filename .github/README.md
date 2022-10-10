@@ -30,7 +30,7 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 
 <!-- INFORMATION -->
 
-## :snowflake: ‎ <samp>Information</samp>
+## :snowflake: <samp>Information</samp>
 
 Here are some details about my setup:
 
