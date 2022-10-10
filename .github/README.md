@@ -90,9 +90,9 @@ systemctl --user enable mpDris2.service
 systemctl --user start mpDris2.service
 ```
 
-> Optional
+> Optional Programms
 ```sh
-yay -Syu thunar ranger vim zsh firefox pavucontrol gotop
+yay -Syu thunar ranger vim zsh firefox pavucontrol gotop vscodium
 ```
 
 > Font/Theming
@@ -124,7 +124,7 @@ cp -r misc/* ~/.fonts/
 cp -r misc/fonts/* ~/.local/share/fonts/
 ```
 
-> And run this command for your system to detect the newly installed fonts.
+> And run this command for your system to detect the newly installed font
 
 ```sh
 fc-cache -fv
