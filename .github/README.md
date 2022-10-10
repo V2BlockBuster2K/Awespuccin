@@ -165,7 +165,7 @@ theme.pfp = themes_path.."catppuccin/assets/yournamehere.png"
 ```
 > And you are done, you can now try out your new Desktop! :tada:
 
-Log out from your current desktop session and log in!
+Log out from your current desktop session and just startx!
 
 </details>
 
