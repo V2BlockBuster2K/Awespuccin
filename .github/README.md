@@ -63,7 +63,7 @@ Main Features:
 
 ## :wrench: <samp>Setup</samp>
 
-<details close>
+<details>
 <summary><b>1. Install the Dependencies</b></summary>
 <br>
 :warning: **This setup instructions only provided for Arch Linux (and other Arch-based distributions)**
@@ -129,6 +129,18 @@ cp -r misc/fonts/* ~/.local/share/fonts/
 ```sh
 fc-cache -fv
 ```
+</details>
+
+<details>
+<summary><b>3. Edit Configs</b></summary>
+<br>
+
+> Edit ~/.config/awesome/user_variables.lua
+Enter your Weater API Key from openweathermap.org here 
+```sh       
+key = " ",
+```
+
 > Congratulations, you can now try out your new Desktop! :tada:
 
 Log out from your current desktop session and log in!
