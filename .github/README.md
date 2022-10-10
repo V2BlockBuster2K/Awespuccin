@@ -124,7 +124,7 @@ git clone --depth 1 --recurse-submodules https://github.com/V2BlockBuster2K/Awes
 cd Awesppuccin && git submodule update --remote --merge
 ```
 
-> Copy config files
+> Copy config/desktop files
 ```sh
 cp -r conf/* ~/.config/
 cp -r desktop/.* ~/
