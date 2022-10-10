@@ -174,8 +174,8 @@ Log out from your current desktop session and just startx!
 
 ## :art: <samp>Colorscheme</samp>
 
-<img align='left' width='100px' src="https://github.com/catppuccin/catppuccin/blob/main/assets/palette/palettes.svg">
-
+<img align='left' width='400px' src="https://github.com/catppuccin/catppuccin/blob/main/assets/palette/palettes.svg">
+<br>
 The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) which is a colorful good looking pastel colorscheme, there are way more configs available for many different programms on there repo (cava, vim, discord...), so go check them out!
 
 <!-- License -->
