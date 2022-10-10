@@ -140,13 +140,13 @@ fc-cache -fv
 ```sh       
 key = " ",
 ```
-> Add your Cordinates which you can find if you search your City Name here
+> Add coordinates which you can find if you search your city name here
 ```sh       
 coordinates = {
 " ", --- lat
 " ", --- lon
 ```
-> Add your Microphone name which you can get throuh **_pamixer --list-sources | grep input_** here
+> Add your microphone name which you can get throuh **_pamixer --list-sources | grep input_** here
 ```sh       
 mic = {
    -- For example "alsa_input.pci-0000_00_1b.0.analog-stereo"
@@ -158,7 +158,7 @@ disk = {
    -- For example "/dev/sda2"
    name = "",
 ```
-> Last but not Least, you can change your Profile Picture in ~/.config/awesome/themes/catppuccin/theme.lua and edit "theme.pfp" to your Image Name here
+> Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua and edit "theme.pfp" to your image name here
 ```sh       
 theme.pfp = themes_path.."catppuccin/assets/pfp.jpg"
 ```
