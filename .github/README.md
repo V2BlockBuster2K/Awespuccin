@@ -160,8 +160,8 @@ disk = {
 ```
 > Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua line 73 "theme.pfp" to your image name
 ```sh
+theme.pfp = themes_path.."catppuccin/assets/yournamehere.png"
 -- default path is "catppuccin/assets/pfp.jpg"
-theme.pfp = themes_path.."catppuccin/assets/yournamehere.png" 
 ```
 > And you are done, you can now try out your new Desktop! :tada:
 
