@@ -73,7 +73,7 @@ Main Features:
 - **Top Panel**
 - **Minimalist Exit Screen**
 - **App Launcher**
-- **Volume OSD**
+- **Volume OSD with Mute Indication**
 - **LayoutList PopUP**
 - **Many cool Widgets**
 - **Animated Systray**
