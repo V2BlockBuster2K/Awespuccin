@@ -227,6 +227,18 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 | ------------------------------------------------------------------------------------------------ |
 | <a href="#--------"><img src="assets/screenshot.png" width="500px" alt="notifications preview"></a> |
 
+| <b>Layout Popup</b>                                                                            |
+| ------------------------------------------------------------------------------------------------ |
+| <a href="#--------"><img src="assets/layoutbox.png" width="500px" alt="layoutbox preview"></a> |
+
+| <b>Simplistic Main-Menu</b>                                                                     |
+| ------------------------------------------------------------------------------------------------ |
+| <a href="#--------"><img src="assets/mainmenu.png" width="500px" alt="main-menu preview"></a> |
+
+| <b>Volume Popup</b>                                                                     |
+| ------------------------------------------------------------------------------------------------ |
+| <a href="#--------"><img src="assets/volumeon.png" width="500px" alt="volumeon preview"></a> |
+
 | <b>Minimalist Exitscreen</b>                                                                     |
 | ------------------------------------------------------------------------------------------------ |
 | <a href="#--------"><img src="assets/exitscreen.png" width="500px" alt="exitscreen preview"></a> |
