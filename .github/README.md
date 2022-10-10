@@ -101,4 +101,4 @@ Awespuccin is created by <a href="https://github.com/V2BlockBuster2K">V2BlockBus
 
 <br>
 
-**<samp>And everyone on the [r/awesomewm subreddit](https://reddit.com/r/awesomewm) and Discord who helped me with this Rice!<samp/>** :fire:
+**<samp>And everyone on the [r/awesomewm subreddit](https://reddit.com/r/awesomewm) and [AwesomeWM Discord](https://discord.com/invite/BPat4F87dg) who helped me with this Rice!<samp/>** :fire:
