@@ -135,6 +135,12 @@ Log out from your current desktop session and log in!
 
 </details>
 
+
+<!-- Colorscheme -->
+
+## :art: <samp>Colorscheme</samp>
+
+
 <!-- License -->
 
 ## :scroll: <samp>License</samp>
