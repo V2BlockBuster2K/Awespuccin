@@ -136,7 +136,7 @@ fc-cache -fv
 <br>
 
 > Edit ~/.config/awesome/user_variables.lua
-> Enter your Weater API Key from [Openweathermap](https://openweathermap.org/) here 
+> enter your Weater API Key from [Openweathermap](https://openweathermap.org/) here 
 ```sh       
 key = " ",
 ```
@@ -158,7 +158,7 @@ disk = {
    -- For example "/dev/sda2"
    name = "",
 ```
-> Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua and edit line 73 "theme.pfp" to your image name
+> Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua line 73 "theme.pfp" to your image name
 ```sh       
 theme.pfp = themes_path.."catppuccin/assets/pfp.jpg"
 ```
