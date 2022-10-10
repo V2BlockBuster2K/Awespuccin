@@ -140,7 +140,7 @@ fc-cache -fv
 ```sh       
 key = " ",
 ```
-> Add coordinates which you can find if you search your city name here
+> Add coordinates which you can find if you search your city name on [Openweathermap](https://openweathermap.org/) here
 ```sh       
 coordinates = {
 " ", --- lat
