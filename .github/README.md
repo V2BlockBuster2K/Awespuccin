@@ -152,7 +152,7 @@ mic = {
    -- For example "alsa_input.pci-0000_00_1b.0.analog-stereo"
    name = "",
 ```
-> Add disk name which you can find throuh _lsblk_ here
+> Add disk name which you can find throuh **_lsblk_** here
 ```sh       
 disk = {
    -- For example "/dev/sda2"
