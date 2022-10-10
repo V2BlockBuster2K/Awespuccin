@@ -4,6 +4,22 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 <!-- RICE PREVIEW -->
 <div align="center">
    <a href="#--------">
+      <img src="assets/infoscreenshot.png" alt="Rice Preview">
+   </a>
+</div>
+
+<br>
+
+<div align="center">
+   <a href="#--------">
+      <img src="assets/notifvolume.png" alt="Rice Preview">
+   </a>
+</div>
+
+<br>
+
+<div align="center">
+   <a href="#--------">
       <img src="assets/rice.png" alt="Rice Preview">
    </a>
 </div>
