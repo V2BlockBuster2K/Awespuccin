@@ -1,5 +1,4 @@
 # Awespuccin
-My Catppuccin themed AwesomeWM Config - Awespuccin
 
 <!-- rice preview -->
 
@@ -19,6 +18,21 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 </h1>
 
 <br>
+
+## Welcome to .files! :heart_on_fire:
+
+<a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
+
+<b> Awespuccin - a AwesomeWM Catppuccin config </b>
+
+Welcome to my AwesomeWM configuration files!
+
+This is my personal repository, everything is themed with the Catppuccin Mocha Colorscheme.
+
+Feel free to steal anything from here but don't forget to give me **credits** :)
+
+AwesomeWM is the most powerful and highly configurable next-generation framework window manager for X.
+Although it takes time and effort to configure it, I am satisfied with the result.
 
 <!-- information -->
 
