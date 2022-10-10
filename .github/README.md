@@ -190,6 +190,7 @@ theme.pfp = themes_path.."catppuccin/assets/yournamehere.png"
 ```
 > You maybe have to edit ~/.xinitrc to change Keyboard Layout and Display Resolution
 <br>
+   
 > And you are done, you can now try out your new Desktop! :tada:
 
 Log out from your current desktop session and just startx!
