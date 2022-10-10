@@ -34,7 +34,7 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 
 Here are some details about my setup:
 
-<img align='right' width='600px' src="assets/rice.png">
+<img align='right' width='500px' src="assets/infoscreenshot.png">
 
 - **OS:** [Arch Linux](https://archlinux.org)
 - **WM:** [awesome](https://github.com/awesomeWM/awesome)
@@ -55,6 +55,8 @@ AwesomeWM Modules:
   - Animation library for AwesomeWM
 
 Main Features:
+
+<img align='right' width='500px' src="assets/notifvolume.png">
 
 - **Catppuccin Mocha Colorscheme**
 - **Cool Window decorations**
