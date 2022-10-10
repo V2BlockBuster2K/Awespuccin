@@ -34,7 +34,8 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 
 Here are some details about my setup:
 
-<img align='right' width='500px' src="assets/rice.png">
+<img align='right' width='400px' src="assets/rice.png">
+
 - **OS:** [Arch Linux](https://archlinux.org)
 - **WM:** [awesome](https://github.com/awesomeWM/awesome)
 - **Terminal:** [alacritty](https://alacritty.org/)
