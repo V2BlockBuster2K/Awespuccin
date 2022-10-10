@@ -38,7 +38,7 @@ Main Features:
 - **LayoutList PopUP**
 - **Many cool Widgets**
 - **Animated Systray**
-- **Beautiful Naughty Notification**
+- **Beautiful Naughty Notifications**
 - **Right-Click Main Menu**
 - **Playerctl Support**
 - **Scratchpad**
