@@ -114,6 +114,41 @@ yay -S nerd-fonts-fira-code catppuccin-gtk-theme-mocha tela-circle-icon-theme-gi
 ```
 </details>
 
+<details>
+<summary><b>2. Install Dotfiles</b></summary>
+<br>
+
+> Clone this repository
+```sh
+git clone --depth 1 --recurse-submodules https://github.com/V2BlockBuster2K/Awesppuccin.git
+cd Awesppuccin && git submodule update --remote --merge
+```
+
+> Copy config files
+```sh
+cp -r conf/* ~/.config/
+cp -r desktop/.* ~/
+```
+
+> Install FiraCode Nerd Font if you haven't already done so
+```sh
+cp -r misc/* ~/.fonts/
+# or to ~/.local/share/fonts
+cp -r misc/fonts/* ~/.local/share/fonts/
+```
+
+And run this command for your system to detect the newly installed fonts.
+
+```sh
+fc-cache -fv
+```
+> Finally, now you can login with AwesomeWM
+Congratulations, you can now try out your new Desktop! :tada:
+
+Log out from your current desktop session and log in!
+
+</details>
+
 <!-- License -->
 
 ## :scroll: <samp>License</samp>
