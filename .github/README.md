@@ -11,6 +11,15 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 
 <br>
 
+<!-- badges -->
+<h1>
+  <a href="#--------">
+    <img alt="" align="right" src="https://img.shields.io/github/stars/V2BlockBuster2K/Awespuccin?color=1E1E2E&labelColor=89B4FA&style=for-the-badge"/>
+  </a>
+</h1>
+
+<br>
+
 <!-- information -->
 
 ## :snowflake: <samp>Information</samp>
