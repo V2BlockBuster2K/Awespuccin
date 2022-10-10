@@ -14,7 +14,7 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 <!-- badges -->
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://img.shields.io/github/stars/V2BlockBuster2K/Awespuccin?color=1E1E2E&labelColor=89B4FA&style=for-the-badge"/>
+    <img alt="" align="right" src="https://img.shields.io/github/stars/V2BlockBuster2K/Awespuccin?color=89B4FA&labelColor=1E1E2E&style=for-the-badge"/>
   </a>
 </h1>
 
