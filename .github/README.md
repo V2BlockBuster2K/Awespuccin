@@ -39,14 +39,13 @@ AwesomeWM Modules:
 
 Main Features:
 
+<img align='right' width='500px' src="assets/notifvolume.png">
+
 - **Catppuccin Mocha Colorscheme**
 - **Cool Window decorations**
 - **Info Panel**
 - **Notification Panel**
 - **Top Panel**
-
-<img align='right' width='500px' src="assets/notifvolume.png">
-
 - **Minimalist Exit Screen**
 - **App Launcher**
 - **Volume OSD**
