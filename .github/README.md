@@ -111,6 +111,7 @@ yay -Syu thunar ranger vim zsh firefox pavucontrol gotop
 > Font/Theming
 ```sh
 yay -S nerd-fonts-fira-code catppuccin-gtk-theme-mocha tela-circle-icon-theme-git
+```
 </details>
 
 <!-- License -->
