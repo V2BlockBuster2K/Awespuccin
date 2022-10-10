@@ -29,6 +29,8 @@ Welcome to my AwesomeWM configuration files!
 
 This is my personal repository, everything is themed with the Catppuccin Mocha Colorscheme.
 
+Those dotfiles are optimized for a 1920x1080 screen, If you have any issues/suggestions please let me know!
+
 Feel free to steal anything from here but don't forget to give me **credits** :)
 
 AwesomeWM is the most powerful and highly configurable next-generation framework window manager for X.
