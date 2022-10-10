@@ -81,6 +81,7 @@ Main Features:
 - **Right-Click Main Menu**
 - **Playerctl Support**
 - **Scratchpad**
+- **Screenshot Tool**
 
 <br>
 
