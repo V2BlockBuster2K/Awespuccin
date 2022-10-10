@@ -142,8 +142,7 @@ cp -r misc/fonts/* ~/.local/share/fonts/
 ```sh
 fc-cache -fv
 ```
-> Finally, now you can login with AwesomeWM
-Congratulations, you can now try out your new Desktop! :tada:
+> Congratulations, you can now try out your new Desktop! :tada:
 
 Log out from your current desktop session and log in!
 
