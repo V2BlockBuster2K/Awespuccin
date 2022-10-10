@@ -89,3 +89,16 @@ Awespuccin is created by <a href="https://github.com/V2BlockBuster2K">V2BlockBus
 - [ ] Github widget (notfication-panel)
 - [ ] Clickable calendar (info-panel)
 - [ ] Rework main-menu
+
+
+## :heart: <samp>Thanks to!</samp>
+
+- **[Rxyhn](https://github.com/rxyhn/dotfiles)**
+- **[Kasper24](https://github.com/Kasper24)**
+- **[rklyz](https://github.com/rklyz)**
+- **[unixsea](https://github.com/unixsea)**
+
+
+<br>
+
+**<samp>And everyone on the [r/awesomewm subreddit](https://reddit.com/r/awesomewm) and Discord who helped me with this Rice!<samp/>** :fire:
