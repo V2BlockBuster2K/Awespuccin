@@ -137,7 +137,7 @@ cp -r misc/* ~/.fonts/
 cp -r misc/fonts/* ~/.local/share/fonts/
 ```
 
-And run this command for your system to detect the newly installed fonts.
+> And run this command for your system to detect the newly installed fonts.
 
 ```sh
 fc-cache -fv
