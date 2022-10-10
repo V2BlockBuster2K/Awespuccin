@@ -108,7 +108,7 @@ yay -S nerd-fonts-fira-code catppuccin-gtk-theme-mocha tela-circle-icon-theme-gi
 > Clone this repository
 ```sh
 git clone --depth 1 --recurse-submodules https://github.com/V2BlockBuster2K/Awespuccin.git
-cd Awesppuccin && git submodule update --remote --merge
+cd Awespuccin && git submodule update --remote --merge
 ```
 
 > Copy config/desktop files
