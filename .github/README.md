@@ -173,7 +173,13 @@ Log out from your current desktop session and just startx!
 <!-- Colorscheme -->
 
 ## :art: <samp>Colorscheme</samp>
+<div align="center">
+   <a href="#--------">
+      <img src="https://github.com/catppuccin/catppuccin/blob/main/assets/misc/sample.png" alt="Rice Preview">
+   </a>
+</div>
 
+<br>
 
 <!-- License -->
 
