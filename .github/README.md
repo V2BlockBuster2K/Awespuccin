@@ -37,9 +37,9 @@ AwesomeWM Modules:
 - **[rubato](https://github.com/andOrlando/rubato)**
   - Animation library for AwesomeWM
 
-<img align='right' width='500px' src="assets/notifvolume.png">
-
 Main Features:
+
+<img align='left' width='500px' src="assets/notifvolume.png">
 
 - **Catppuccin Mocha Colorscheme**
 - **Cool Window decorations**
