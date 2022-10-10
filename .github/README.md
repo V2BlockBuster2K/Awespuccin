@@ -136,29 +136,29 @@ fc-cache -fv
 <br>
 
 > Edit ~/.config/awesome/user_variables.lua
-Enter your Weater API Key from [Openweathermap](https://openweathermap.org/) here 
+> Enter your Weater API Key from [Openweathermap](https://openweathermap.org/) here 
 ```sh       
 key = " ",
 ```
-Add your Cordinates which you can find if you search your City
+> Add your Cordinates which you can find if you search your City
 ```sh       
 coordinates = {
 " ", --- lat
 " ", --- lon
 ```
-Add your Microphone name which you can get throuh _pamixer --list-sources | grep input_
+> Add your Microphone name which you can get throuh _pamixer --list-sources | grep input_
 ```sh       
 mic = {
    -- For example "alsa_input.pci-0000_00_1b.0.analog-stereo"
    name = "",
 ```
-Add your disk which you can find throuh _lsblk_
+> Add disk name which you can find throuh _lsblk_
 ```sh       
 disk = {
    -- For example "/dev/sda2"
    name = "",
 ```
-Last but not Least, you can change your Profile Picture in .config/awesome/themes/catppuccin/theme.lua and edit "theme.pfp" to your Image
+> Last but not Least, you can change your Profile Picture in .config/awesome/themes/catppuccin/theme.lua and edit "theme.pfp" to your Image
 ```sh       
 theme.pfp = themes_path.."catppuccin/assets/pfp.jpg"
 ```
