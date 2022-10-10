@@ -173,13 +173,8 @@ Log out from your current desktop session and just startx!
 <!-- Colorscheme -->
 
 ## :art: <samp>Colorscheme</samp>
-<div align="center">
-   <a href="#--------">
-      <img src="https://github.com/catppuccin/catppuccin/blob/main/assets/misc/sample.png" alt="Rice Preview">
-   </a>
-</div>
 
-<br>
+The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) which is a colorful good looking pastel colorscheme, there are way more configs available for many different programms on there repo (cava, vim, discord...), so go check them out!
 
 <!-- License -->
 
