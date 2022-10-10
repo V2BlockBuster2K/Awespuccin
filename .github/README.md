@@ -1,7 +1,7 @@
 # Awespuccin
 My Catppuccin themed AwesomeWM Config - Awespuccin
 
-<!-- RICE PREVIEW -->
+<!-- rice preview -->
 
 <div align="center">
    <a href="#--------">
@@ -28,7 +28,7 @@ My Catppuccin themed AwesomeWM Config - Awespuccin
 <br>
 
 
-<!-- INFORMATION -->
+<!-- information -->
 
 ## :snowflake: <samp>Information</samp>
 
@@ -72,6 +72,49 @@ Main Features:
 
 <br>
 
+<!-- Setup -->
+
+## :wrench: <samp>Setup</samp>
+
+<details close>
+<summary><b>1. Install the Dependencies</b></summary>
+<br>
+:warning: **This setup instructions only provided for Arch Linux (and other Arch-based distributions)**
+
+Assuming your _AUR Helper_ is [yay](https://github.com/Jguer/yay).
+
+> First of all you should install the [git version of AwesomeWM](https://github.com/awesomeWM/awesome/).
+```sh
+yay -S awesome-git
+```
+
+> Install necessary dependencies
+```sh
+yay -Syu picom-git alacritty mpc playerctl ncmpcpp mpd xdg-utils \
+pipewire pipewire-pulse pipewire-alsa alsa-utils feh rofi maim \
+xclip jq pamixer colord mpDris2 imagemagick inotify-tools --needed
+```
+
+> Enable Services
+```sh
+systemctl --user enable mpd.service
+systemctl --user start mpd.service
+systemctl --user enable mpDris2.service
+systemctl --user start mpDris2.service
+```
+
+> Optional
+```sh
+yay -Syu thunar ranger vim zsh firefox pavucontrol gotop
+```
+
+> Font/Theming
+```sh
+yay -S nerd-fonts-fira-code catppuccin-gtk-theme-mocha tela-circle-icon-theme-git
+</details>
+
+<!-- License -->
+
 ## :scroll: <samp>License</samp>
 
 Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/main/LICENSE">GNU GPL-3.0 License.
@@ -83,6 +126,8 @@ Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/
 
 Awespuccin is created by <a href="https://github.com/V2BlockBuster2K">V2BlockBuster2K</a>.
 
+<!-- Todo -->
+  
 ## :white_check_mark: <samp>Todo</samp>
 - [ ] Rework Buttons (Animations) (Playerctl) -> Hover Effects on Panels
 - [ ] Add decoration for ncmpcpp
@@ -90,8 +135,9 @@ Awespuccin is created by <a href="https://github.com/V2BlockBuster2K">V2BlockBus
 - [ ] Clickable calendar (info-panel)
 - [ ] Rework main-menu
 
-
-## :heart: <samp>Thanks to!</samp>
+<!-- Credits -->
+   
+## :heart: <samp>Credits</samp>
 
 - **[Rxyhn](https://github.com/rxyhn/dotfiles)**
 - **[Kasper24](https://github.com/Kasper24)**
