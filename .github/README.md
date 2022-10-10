@@ -207,6 +207,30 @@ Log out from your current desktop session and just startx!
 
 The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) which is a colorful good looking pastel colorscheme, there are way more configs available for many different programms on there repo (cava, vim, discord...), so go check them out!
 
+<!-- GALLERY -->
+
+## :ocean: <samp>Gallery</samp>
+
+| <b>Useful Top Panel</b>                                                                              |
+| ---------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/toppanel.png" width="500px" alt="bottom panel preview"></a>    |
+
+| <b>Informative Info Center</b>                                                          |
+| ------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/infopanel.png" width="500px" alt="info center preview"></a> |
+
+| <b>Beautiful Notification Center</b>                                                                       |
+| ---------------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/notification.png" width="500px" alt="notification center preview"></a> |
+
+| <b>Naughty Notifications</b>                                                                     |
+| ------------------------------------------------------------------------------------------------ |
+| <a href="#--------"><img src="assets/screenshot.png" width="500px" alt="notifications preview"></a> |
+
+| <b>Minimalist Exitscreen</b>                                                                     |
+| ------------------------------------------------------------------------------------------------ |
+| <a href="#--------"><img src="assets/exitscreen.png" width="500px" alt="exitscreen preview"></a> |
+
 <!-- License -->
 
 ## :scroll: <samp>License</samp>
