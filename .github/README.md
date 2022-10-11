@@ -147,7 +147,7 @@ cp -r desktop/.* ~/
 ```sh
 cp -r misc/* ~/.fonts/
 # or to ~/.local/share/fonts
-cp -r misc/fonts/* ~/.local/share/fonts/
+cp -r misc/* ~/.local/share/fonts/
 ```
 
 > And run this command for your system to detect the newly installed font
