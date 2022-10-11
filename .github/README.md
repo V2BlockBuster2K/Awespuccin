@@ -140,7 +140,7 @@ cd Awespuccin && git submodule update --remote --merge
 > Copy config/desktop files
 ```sh
 cp -r conf/* ~/.config/
-cp -r desktop/.* ~/
+cp -r desktop/ ~/
 ```
 
 > Install FiraCode Nerd Font if you haven't already done so
