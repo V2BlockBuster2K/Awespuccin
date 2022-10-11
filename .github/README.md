@@ -3,9 +3,7 @@
 <!-- rice preview -->
 
 <div align="center">
-<!--   <a href="#--------"> -->
       <img src="assets/rice.png">
- <!--  </a> -->
 </div>
 
 <br>
@@ -216,7 +214,7 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 
 | <b>Useful Top Panel</b>                                                                              |
 | ---------------------------------------------------------------------------------------------------- |
-| <a href="#--------"><img src="assets/toppanel.png" width="500px" alt="top panel preview"></a>    |
+| <img src="assets/toppanel.png" width="500px" alt="top panel preview">    |
 
 | <b>Informative Info Center</b>                                                          |
 | ------------------------------------------------------------------------------------------------- |
