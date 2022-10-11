@@ -212,37 +212,37 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 
 ## :ocean: <samp>Gallery</samp>
 
-| <b>Useful Top Panel</b>                                                                              |
-| ---------------------------------------------------------------------------------------------------- |
-| <img src="assets/toppanel.png" width="500px" alt="top panel preview">    |
+| <b>Useful Top Panel</b>                                                                          |
+| ------------------------------------------------------------------------------------------------ |
+| <img src="assets/toppanel.png" width="500px" alt="top panel preview">                            |
 
-| <b>Informative Info Center</b>                                                          |
-| ------------------------------------------------------------------------------------------------- |
-| <a href="#--------"><img src="assets/infopanel.png" width="500px" alt="info panel preview"></a> |
+| <b>Informative Info Center</b>                                                                   |
+| ------------------------------------------------------------------------------------------------ |
+| <img src="assets/infopanel.png" width="500px" alt="info panel preview">                          |
 
-| <b>Beautiful Notification Center</b>                                                                       |
-| ---------------------------------------------------------------------------------------------------------- |
-| <a href="#--------"><img src="assets/notification.png" width="500px" alt="notification panel preview"></a> |
+| <b>Beautiful Notification Center</b>                                                             |
+| ------------------------------------------------------------------------------------------------ |
+| <img src="assets/notification.png" width="500px" alt="notification panel preview">               |
 
 | <b>Naughty Notifications</b>                                                                     |
 | ------------------------------------------------------------------------------------------------ |
-| <a href="#--------"><img src="assets/screenshot.png" width="500px" alt="notifications preview"></a> |
+| <img src="assets/screenshot.png" width="500px" alt="notifications preview">                      |
 
-| <b>Layout Popup</b>                                                                            |
+| <b>Layout Popup</b>                                                                              |
 | ------------------------------------------------------------------------------------------------ |
-| <a href="#--------"><img src="assets/layoutbox.png" width="500px" alt="layoutbox preview"></a> |
+| <img src="assets/layoutbox.png" width="500px" alt="layoutbox preview">                           |
 
-| <b>Simplistic Main-Menu</b>                                                                     |
+| <b>Simplistic Main-Menu</b>                                                                      |
 | ------------------------------------------------------------------------------------------------ |
-| <a href="#--------"><img src="assets/mainmenu.png" width="500px" alt="main-menu preview"></a> |
+| <img src="assets/mainmenu.png" width="500px" alt="main-menu preview">                            |
 
-| <b>Volume Popup</b>                                                                     |
+| <b>Volume Popup</b>                                                                              |
 | ------------------------------------------------------------------------------------------------ |
-| <a href="#--------"><img src="assets/volumeon.png" width="500px" alt="volumeon preview"></a> |
+| <img src="assets/volumeon.png" width="500px" alt="volumeon preview">                             |
 
 | <b>Minimalist Exitscreen</b>                                                                     |
 | ------------------------------------------------------------------------------------------------ |
-| <a href="#--------"><img src="assets/exitscreen.png" width="500px" alt="exitscreen preview"></a> |
+| <img src="assets/exitscreen.png" width="500px" alt="exitscreen preview">                         |
 
 <!-- Keybinds -->
 
