@@ -252,7 +252,7 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 
 _Just press ctrl+super + s and you will get a full list of keybinds!_
 
-<a href="#--------"><img src="assets/keybinds.png" width="900px" alt="colorscheme preview"></a>
+<a href="#--------"><img src="assets/keybinds.png" width="800px" alt="colorscheme preview"></a>
 
 <details>
 <summary>Basic Keybinds</summary>
