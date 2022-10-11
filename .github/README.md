@@ -253,7 +253,7 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 _Just press ctrl+super + s and you will get a full list of keybinds!_
 
 <details>
-<summary>Client Keybinds</summary>
+<summary>Basic Keybinds</summary>
 <br>
 
 | Keybinds       | Uses        |
@@ -261,9 +261,8 @@ _Just press ctrl+super + s and you will get a full list of keybinds!_
 | Mod + Enter    | Terminal    |
 | Mod + Space    | Layout      |
 | Mod + r        | Rofi        |
-| alt + c        | Sidebar     |
-| alt + x        | Lockscreen  |
 | Mod + Ctrl + n | Un-minimize |
+| Mod + Q        | Lockscreen  |
  
 </details>
 
