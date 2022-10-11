@@ -176,13 +176,13 @@ coordinates = {
 ```sh       
 mic = {
    -- For example "alsa_input.pci-0000_00_1b.0.analog-stereo"
-   name = "",
+   name = " ",
 ```
 > Add disk name which you can find throuh **_lsblk_** here
 ```sh       
 disk = {
    -- For example "/dev/sda2"
-   name = "",
+   name = " ",
 ```
 > Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua line 73 "theme.pfp" to your image name 
 (you can also change wallpaper, font... in theme.lua )
