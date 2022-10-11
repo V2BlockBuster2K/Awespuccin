@@ -4,7 +4,7 @@
 
 <div align="center">
    <a href="#--------">
-      <img src="assets/rice.png" alt="Rice Preview">
+      <img src="assets/rice.png">
    </a>
 </div>
 
