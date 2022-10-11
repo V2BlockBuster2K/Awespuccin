@@ -246,13 +246,6 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 | ------------------------------------------------------------------------------------------------ |
 | <a href="#--------"><img src="assets/exitscreen.png" width="500px" alt="exitscreen preview"></a> |
 
-<!-- License -->
-
-## :scroll: <samp>License</samp>
-
-Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/main/LICENSE">GNU GPL-3.0 License.
-</a>
-
 <!-- Keybinds -->
 
 ## :keyboard: <samp>Keybinds</samp>
@@ -261,7 +254,15 @@ Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/
 <summary><b>Client Keybinds</b></summary>
 <br>
    
-<details>
+</details>
+
+<!-- License -->
+
+## :scroll: <samp>License</samp>
+
+Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/main/LICENSE">GNU GPL-3.0 License.
+</a>
+
 
 <!-- Author -->
 
