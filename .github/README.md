@@ -186,7 +186,8 @@ disk = {
    -- For example "/dev/sda2"
    name = "",
 ```
-> Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua line 73 "theme.pfp" to your image name
+> Last but not least, you can change your profile picture in ~/.config/awesome/themes/catppuccin/theme.lua line 73 "theme.pfp" to your image name 
+(you can also change wallpaper, font... in theme.lua )
 ```sh
 theme.pfp = themes_path.."catppuccin/assets/yournamehere.png"
 -- default path is "catppuccin/assets/pfp.jpg"
