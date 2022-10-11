@@ -103,7 +103,7 @@ yay -S awesome-git
 
 > Install necessary dependencies
 ```sh
-yay -Syu picom-git alacritty mpc playerctl ncmpcpp mpd xdg-utils \
+yay -S picom-git alacritty mpc playerctl ncmpcpp mpd xdg-utils \
 pipewire pipewire-pulse pipewire-alsa alsa-utils feh rofi maim \
 xclip jq pamixer colord mpdris2 imagemagick inotify-tools --needed
 ```
@@ -118,7 +118,7 @@ systemctl --user start mpDris2.service
 
 > Optional Programms
 ```sh
-yay -Syu thunar ranger vim zsh firefox pavucontrol gotop vscodium
+yay -S thunar ranger vim zsh firefox pavucontrol gotop vscodium
 ```
 
 > Font/Theming
