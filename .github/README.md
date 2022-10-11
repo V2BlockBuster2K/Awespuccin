@@ -3,9 +3,9 @@
 <!-- rice preview -->
 
 <div align="center">
-   <a href="#--------">
+<!--   <a href="#--------"> -->
       <img src="assets/rice.png">
-   </a>
+ <!--  </a> -->
 </div>
 
 <br>
