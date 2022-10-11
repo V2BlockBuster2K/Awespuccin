@@ -262,7 +262,7 @@ _Just press ctrl+super + s and you will get a full list of keybinds!_
 | Mod + Space    | Layout      |
 | Mod + r        | Rofi        |
 | Mod + Ctrl + n | Un-minimize |
-| Mod + Q        | Lockscreen  |
+| Mod + q        | Lockscreen  |
  
 </details>
 
