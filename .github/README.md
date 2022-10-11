@@ -105,7 +105,7 @@ yay -S awesome-git
 ```sh
 yay -Syu picom-git alacritty mpc playerctl ncmpcpp mpd xdg-utils \
 pipewire pipewire-pulse pipewire-alsa alsa-utils feh rofi maim \
-xclip jq pamixer colord mpDris2 imagemagick inotify-tools --needed
+xclip jq pamixer colord mpdris2 imagemagick inotify-tools --needed
 ```
 
 > Enable Services
