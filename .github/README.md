@@ -253,6 +253,16 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 Awespuccin is under <a href="https://github.com/V2BlockBuster2K/Awespuccin/blob/main/LICENSE">GNU GPL-3.0 License.
 </a>
 
+<!-- Keybinds -->
+
+## :keyboard: <samp>Keybinds</samp>
+
+<details>
+<summary><b>Client Keybinds</b></summary>
+<br>
+   
+<details>
+
 <!-- Author -->
 
 ## :bust_in_silhouette: <samp>Author</samp>
