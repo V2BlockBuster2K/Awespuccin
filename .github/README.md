@@ -145,9 +145,9 @@ cp -r desktop/.* ~/
 
 > Install FiraCode Nerd Font if you haven't already done so
 ```sh
-cp -r misc/* ~/.fonts/
+cp -r misc/FiraCode ~/.fonts/
 # or to ~/.local/share/fonts
-cp -r misc/* ~/.local/share/fonts/
+cp -r misc/FiraCode ~/.local/share/fonts/
 ```
 
 > And run this command for your system to detect the newly installed font
