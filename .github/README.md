@@ -29,7 +29,7 @@ This is my personal repository, everything is themed with the Catppuccin Mocha C
 
 These dotfiles are optimized for a 1920x1080 screen, if you have any issues/suggestions please let me know!
 
-This is a Desktop configuration(no Brightness/Battery Support)!
+This is a Desktop configuration (no Brightness/Battery Support)!
 
 Feel free to steal anything from here but don't forget to give me **credits** :)
 
