@@ -248,7 +248,7 @@ The colorscheme is [Catppuccin Mocha](https://github.com/catppuccin/catppuccin) 
 
 ## :keyboard: <samp>Keybinds</samp>
 
-_Just press ctrl+super + s and you will get a full list of keybinds!_
+_Just press ctrl+super+s and you will get a full list of keybinds!_
 
 <img src="assets/keybinds.png" width="800px" alt="colorscheme preview">
 
