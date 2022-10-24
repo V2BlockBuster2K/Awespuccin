@@ -134,10 +134,15 @@ local create_notif = function(icon, n, width)
                 layout = wibox.layout.align.horizontal,
               },
               {
+                step_function = wibox.container.scroll.step_functions.waiting_nonlinear_back_and_forth,
+                speed = 50,
+                {
                 markup = n.message,
                 align = "left",
-                forced_width = 165,
                 widget = wibox.widget.textbox,
+                },
+                forced_width = 165,
+                widget = wibox.container.scroll.horizontal,
               },
               spacing = 3,
               layout = wibox.layout.fixed.vertical,
